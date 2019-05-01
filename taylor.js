@@ -3,4 +3,4 @@ console.log("I'm going through changes");
 console.log("hey");
 
 var myVar = "hello";
-console.log("suuup");
+console.log(myVar);
