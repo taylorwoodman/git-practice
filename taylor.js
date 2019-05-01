@@ -4,3 +4,5 @@ console.log("hey");
 
 var myVar = "hello";
 console.log(myVar);
+const seven = 7;
+console.log(seven);
